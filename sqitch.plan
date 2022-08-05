@@ -2,3 +2,5 @@
 %project=flipr
 %uri=https://github.com/sqitchers/sqitch-intro/
 
+appschema 2022-08-05T08:05:30Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Add schema for all flipr objects.
+appschema1 2022-08-05T08:18:44Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Add schema for all flipr objects.
