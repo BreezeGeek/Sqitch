@@ -7,3 +7,4 @@ appschema1 2022-08-05T08:18:44Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Ad
 users [appschema] 2022-08-05T12:16:51Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Creates table to track our users.
 insert_user [users appschema] 2022-08-05T12:45:12Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Creates a function to insert a user.
 change_pass [users appschema] 2022-08-05T12:46:52Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Creates a function to change a user password.
+@v1.0.0-dev1 2022-08-05T13:08:40Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Tag v1.0.0-dev1.
