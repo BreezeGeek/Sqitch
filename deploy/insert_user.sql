@@ -1,7 +1,7 @@
 -- Deploy flipr:insert_user to pg
 -- requires: users
 -- requires: appschema
-
+-- Function to insert records in users table
 BEGIN;
 
 -- XXX Add DDLs here.
