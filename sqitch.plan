@@ -8,3 +8,5 @@ users [appschema] 2022-08-05T12:16:51Z Sadam Hussain <sadam.hussain@ebitlogix.co
 insert_user [users appschema] 2022-08-05T12:45:12Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Creates a function to insert a user.
 change_pass [users appschema] 2022-08-05T12:46:52Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Creates a function to change a user password.
 @v1.0.0-dev1 2022-08-05T13:08:40Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Tag v1.0.0-dev1.
+
+insert_user_alter [users appschema] 2022-08-10T11:06:35Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Alter function insert user.
