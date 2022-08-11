@@ -11,3 +11,5 @@ change_pass [users appschema] 2022-08-05T12:46:52Z Sadam Hussain <sadam.hussain@
 
 insert_user_alter [users appschema] 2022-08-10T11:06:35Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Alter function insert user.
 flips [appschema users] 2022-08-11T13:18:50Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Adds table for storing flips.
+flips_insert [appschema flips] 2022-08-11T13:32:59Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Creates a function to insert flips
+flips_delete [appschema flips] 2022-08-11T13:33:56Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Created a function to deleteflips
