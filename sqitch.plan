@@ -10,3 +10,4 @@ change_pass [users appschema] 2022-08-05T12:46:52Z Sadam Hussain <sadam.hussain@
 @v1.0.0-dev1 2022-08-05T13:08:40Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Tag v1.0.0-dev1.
 
 insert_user_alter [users appschema] 2022-08-10T11:06:35Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Alter function insert user.
+flips [appschema users] 2022-08-11T13:18:50Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Adds table for storing flips.
