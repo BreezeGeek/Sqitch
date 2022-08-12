@@ -15,3 +15,4 @@ flips_insert [appschema flips] 2022-08-11T13:32:59Z Sadam Hussain <sadam.hussain
 flips_delete [appschema flips] 2022-08-11T13:33:56Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Created a function to deleteflips
 change_pass [change_pass@v1.0.0-dev1] 2022-08-12T10:25:40Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Change in change_pass function
 @v1.0.1-dev1 2022-08-12T10:45:54Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Tag v1.0.1-dev1.
+flips_insert [flips_insert@v1.0.1-dev1] 2022-08-12T10:58:20Z Sadam Hussain <sadam.hussain@ebitlogix.com> # Chnage in flips_insert function

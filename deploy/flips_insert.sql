@@ -10,8 +10,8 @@ CREATE OR REPLACE FUNCTION flipr.insert_flip(
    nickname TEXT,
    body     TEXT
 ) RETURNS BIGINT LANGUAGE sql SECURITY DEFINER AS $$
-    INSERT INTO flipr.flips (nickname, body)
-    VALUES ($1, $2)
+    INSERT INTO flipr.flips (body,nickname)
+    VALUES ($2,$1)
     RETURNING id;
 $$;
 
